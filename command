@@ -11,4 +11,4 @@ Steps for working on git
 
 6) git push orgin master // For push our project to  repository and also we create new file the add that file we run this command
 7) git clone repoName(path of git where we create repository) // For download the project on github
-8) 
+8) git pull orgin master // For clone new file or updated file on git repository
